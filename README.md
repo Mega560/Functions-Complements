@@ -1,6 +1,6 @@
 # Functions-Complements
-A directory dedicated to hosting funcionts and complements made with python.
+Un directorio dedicado a funciones simples.
 
 # Button
 
-A simple example of a button function.
+Un ejemplo funcional de boton en python
